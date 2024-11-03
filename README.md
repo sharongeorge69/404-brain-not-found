@@ -1,0 +1,1 @@
+By navigating an invisible maze, participants learn to think creatively, sharpen their spatial awareness, and trust their instincts. This project was designed to make problem-solving an engaging, immersive experience, encouraging participants to explore how they approach challenges when their usual senses or strategies are limited.
