@@ -33,7 +33,7 @@ Backend (optional): Flask for running the game server
 Implementation
 For Software:
 Installation
-git [clone https://github.com/yourusername/invisible-maze](https://github.com/sharongeorge69/404-brain-not-found)
+git[](https://github.com/sharongeorge69/404-brain-not-found)
 
 (Optional) Set up Python environment for backend
 python -m venv maze_env
@@ -48,7 +48,7 @@ flask run
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots 
 ![Screenshot1](![image](https://github.com/user-attachments/assets/1d096544-1d5f-4a30-bf70-aedcd4e500f6)
 *
 # Video
